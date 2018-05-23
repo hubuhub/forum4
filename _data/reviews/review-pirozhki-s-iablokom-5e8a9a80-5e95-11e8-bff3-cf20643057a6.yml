@@ -1,0 +1,11 @@
+_id: 5e8a9a80-5e95-11e8-bff3-cf20643057a6
+name: Иван
+comment: >-
+  Можно найти пирожков с яблоком тут - <a
+  href="http://mail.ru">http://mail.ru</a>. Кстати, у них недавно были очень
+  хорошие скидки, может ещё попадёте на акцию.
+product: pirozhki-s-iablokom
+date: '2018-05-23T14:27:06.793Z'
+timestamp: 1527085626
+tags:
+  - comment-subscription
